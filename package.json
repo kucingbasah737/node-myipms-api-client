@@ -3,12 +3,15 @@
   "version": "0.0.1",
   "description": "Query Myip.ms data using API",
   "main": "lib/index.js",
+  "module": "./src/index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "mocha --bail --recursive test",
-    "watch-test": "mocha --watch --bail --recursive test"
+    "test-watch": "mocha --watch --bail --recursive test",
+    "postversion": "git push && git push --tags",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "repository": {
     "type": "git",
