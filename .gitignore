@@ -131,3 +131,4 @@ dist
 
 ## kucing
 .npmrc
+tmp/
