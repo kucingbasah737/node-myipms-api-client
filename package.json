@@ -1,0 +1,34 @@
+{
+  "name": "myipms-api-client",
+  "version": "0.0.1",
+  "description": "Query Myip.ms data using API",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha --bail --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kucingbasah737/node-myipms-api-client.git"
+  },
+  "keywords": [
+    "myip.ms",
+    "reverse",
+    "ip",
+    "whois"
+  ],
+  "author": "Kucing Basah 737 <kucingbasah737@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kucingbasah737/node-myipms-api-client/issues"
+  },
+  "homepage": "https://github.com/kucingbasah737/node-myipms-api-client#readme",
+  "devDependencies": {
+    "auto-changelog": "^2.4.0",
+    "mocha": "^10.2.0",
+    "semistandard": "^17.0.0",
+    "should": "^13.2.3"
+  }
+}
