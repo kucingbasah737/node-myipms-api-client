@@ -1,4 +1,8 @@
 # node-myipms-api-client
+[![Version npm](https://img.shields.io/npm/v/myipms-api-client)](https://www.npmjs.com/package/myipms-api-client)
+[![node.js version](https://img.shields.io/node/v/myipms-api-client)](https://www.npmjs.com/package/myipms-api-client)
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
+
 Query Myip.ms data using API
 
 ## Instal
