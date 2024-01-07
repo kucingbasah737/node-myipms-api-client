@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Query Myip.ms data using API",
   "main": "lib/index.js",
-  "module": "./src/index.js",
+  "module": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
