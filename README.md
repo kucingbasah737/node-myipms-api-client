@@ -12,12 +12,16 @@ npm install myipms-api-client
 ```
 
 ## Usage
+You can get apiId and apiKey by registering an account at [myip.ms](https://myip.ms).
+Free plan is available and can be used.
+
 ```javascript
 const myipms = require('myipms-api-client');
 
 (async () => {
-  const apiId = 'PLEASE_CHANE_ME';
-  const apiKey = 'PLEASE_CHANGE_ME';
+  const apiId = 'PLEASE_CHANGE_IT_TO_YOUR_APIID_FROM_MYIPMS';
+  const apiKey = 'PLEASE_CHANGE_IT_TO_YOUR_APIKEY_FROM_MYIPMS';
+
   const result = await myipms(apiId, apiKey, '185.199.108.153');
 })();
 ```
