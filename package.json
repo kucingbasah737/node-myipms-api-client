@@ -19,9 +19,10 @@
   },
   "keywords": [
     "myip.ms",
-    "reverse",
-    "ip",
-    "whois"
+    "whois",
+    "reverseip",
+    "reverse-ip",
+    "same-ip"
   ],
   "author": "Kucing Basah 737 <kucingbasah737@gmail.com>",
   "license": "MIT",
