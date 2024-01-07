@@ -133,5 +133,6 @@ dist
 .npmrc
 tmp/
 
+/npmignore
 /test/
 CHANGELOG.md
