@@ -104,3 +104,7 @@ result will contain something like these:
 
 ## Notes
 API will only return 100 websites. There is no documented API to get next page on myip.ms.
+
+My other reverse ip npm package:
+- [rapiddns.io scrapper](https://www.npmjs.com/package/rapiddns-io-scrapper).
+  It will return up to 10000 hostnames per ip. Also can be used to enumerate subdomains.
