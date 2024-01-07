@@ -1,6 +1,6 @@
 {
   "name": "myipms-api-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Query Myip.ms data using API",
   "main": "lib/index.js",
   "module": "./src/index.js",
